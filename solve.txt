@@ -1,0 +1,6 @@
+
+for virtualbox error:
+
+sudo modprobe vboxdrv
+
+
